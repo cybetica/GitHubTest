@@ -6,3 +6,7 @@ Oranges
 Carrots
 Grapes
 Toilet Rolls
+
+some additional stuff
+Bananas
+Humous
